@@ -82,3 +82,12 @@ public Rectangle(int x, int y, int width, int height) {
 	 this.height = height;
   }
 }
+
+
+/*
+Difference between this() and super() in java ?
+
+this() is used to access one constructor from another with in the same class while super() is used to access superclass constructor. Either this() or super() exists it must be the first statement in the
+constructor.
+
+*/
