@@ -112,3 +112,14 @@ public class MyStack {
 
 }
 ```
+
+
+
+
+# Java Stack Class 
+### Method Summary
+1) empty()
+2) peek()
+3) pop()
+4) push(int)
+5) search(int) returns pos or -1
