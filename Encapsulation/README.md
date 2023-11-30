@@ -45,7 +45,6 @@ public class Player {
     public int healthRemaining() {
         return health;
     }
-
     public void resotreHealth(int extraHealth) {
         health+=extraHealth;
         if(health > 100) {
